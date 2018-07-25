@@ -1,0 +1,8 @@
+-batch 
+-create axi_rtgo 
+-ver 1.00.a 
+-dir "C:\LEMZ-T\COAL_RBS\axi_capture\edk_library\pcores\MyProcessorIPLib" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 6 
+-xps 

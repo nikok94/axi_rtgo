@@ -1,0 +1,12 @@
+##############################################################################
+## Filename:          C:/LEMZ-T/COAL_RBS/axi_capture/edk_library/pcores/MyProcessorIPLib/pcores/axi_rtgo_v1_00_a/data/axi_rtgo_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Fri Jul 20 08:51:19 2018 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib axi_rtgo_v1_00_a axi_rtgo vhdl
+lib axi_rtgo_v1_00_a time_control vhdl
+lib axi_rtgo_v1_00_a lsync vhdl
+##lib axi_rtgo_v1_00_a psync vhdl
